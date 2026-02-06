@@ -1,0 +1,6 @@
+shipment_id,origin_mine,destination_port,tonnage,departure_time,expected_arrival,status
+SHP-2026-001,Black Mesa Mine,Port of Newcastle,15000,2026-02-01 08:00:00,2026-02-03 14:00:00,In Transit
+SHP-2026-002,Powder River Basin,Port of Vancouver,22000,2026-02-02 06:30:00,2026-02-05 18:00:00,Delayed
+SHP-2026-003,Hunter Valley Ops,Port of Kembla,18500,2026-01-29 12:15:00,2026-01-31 09:45:00,Delivered
+SHP-2026-004,Bowen Basin,Gladstone Port,12000,2026-02-06 05:00:00,2026-02-06 23:00:00,Scheduled
+SHP-2026-005,Appalachia,Norfolk Southern,9500,2026-02-04 10:00:00,2026-02-08 16:00:00,In Transit
